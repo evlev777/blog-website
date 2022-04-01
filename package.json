@@ -1,0 +1,24 @@
+{
+  "name": "blog-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evlev777/blog-website.git"
+  },
+  "author": "Evgeniy Levkovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evlev777/blog-website/issues"
+  },
+  "homepage": "https://github.com/evlev777/blog-website#readme",
+  "dependencies": {
+    "express-fileupload": "^1.3.1",
+    "express.js": "^1.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
